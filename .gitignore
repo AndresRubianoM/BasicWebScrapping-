@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#PDF
+xpath-cheatsheet.md.pdf
